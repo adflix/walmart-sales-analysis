@@ -1,0 +1,14 @@
+# Daten und Outputs ignorieren
+data/*.csv
+visuals/*.png
+
+# Jupyter Notebook Checkpoints
+**/.ipynb_checkpoints
+
+# Python Cache & Virtuelle Umgebungen
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
